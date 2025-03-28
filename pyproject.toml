@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "instagram"
+version = "0.1.0"
+description = ""
+authors = ["daxter <aleksej.biriulin@yandex.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pygame = "^2.6.1"
+dearpygui = "^2.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
