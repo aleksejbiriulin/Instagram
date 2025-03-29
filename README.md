@@ -1,2 +1,3 @@
 # Instagram
-PYthon instagram application written on skates for my client
+Написанное приложение python instagram
+Python instagram application written on skates for my client
